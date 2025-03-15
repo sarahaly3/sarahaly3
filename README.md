@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sarahaly3&color=ffadd2)
+
 # 💫 About Me:
 
 I'm a current Dev Degree intern at Shopify. I love to learn new things and meet new people, so feel free to reach out!
