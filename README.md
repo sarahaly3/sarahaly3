@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=sarahaly3&color=ffadd2)
-
 # 💫 About Me:
 
 I'm a current Dev Degree intern at Shopify. I love to learn new things and meet new people, so feel free to reach out!
@@ -18,6 +16,6 @@ I'm a current Dev Degree intern at Shopify. I love to learn new things and meet 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sarahaly3&icon=9&color=5)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=sarahaly3&color=ffadd2)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
